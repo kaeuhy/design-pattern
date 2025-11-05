@@ -8,7 +8,7 @@ class ThemeManager {
     public constructor() {
     }
 
-    private currentTheme: THeme = 'light';
+    private currentTheme: Theme = 'light';
 
     public getTheme(): Theme {
         return this.currentTheme;
