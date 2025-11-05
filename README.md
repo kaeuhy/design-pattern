@@ -6,7 +6,7 @@
 
  [전략 패턴](https://github.com/kaeuhy/design-pattern/blob/main/strategy/strategy.md)
  
- [싱글턴]()
+ [싱글턴](https://github.com/kaeuhy/design-pattern/blob/main/singleton/singleton.md)
  
  [팩토리 메소드]()
  
