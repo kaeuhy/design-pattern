@@ -8,7 +8,7 @@
  
  [싱글턴](https://github.com/kaeuhy/design-pattern/blob/main/singleton/singleton.md)
  
- [팩토리 메소드](https://github.com/kaeuhy/design-pattern/blob/main/singleton/factory-method.md)
+ [팩토리 메소드](https://github.com/kaeuhy/design-pattern/blob/main/factory-method/facotry-method.md)
  
  [추상 팩토리]()
  
