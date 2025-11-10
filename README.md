@@ -10,7 +10,7 @@
  
  [팩토리 메소드](https://github.com/kaeuhy/design-pattern/blob/main/factory-method/facotry-method.md)
  
- [추상 팩토리]()
+ [추상 팩토리](https://github.com/kaeuhy/design-pattern/blob/main/abstract-factory/abstract-factory.md)
  
  [데코레이터]()
  
