@@ -26,7 +26,7 @@
  
  [추상 팩토리](https://github.com/kaeuhy/design-pattern/blob/main/abstract-factory/abstract-factory.md)
  
- [데코레이터]()
+ [데코레이터](https://github.com/kaeuhy/design-pattern/blob/main/decorator/decorator.md)
  
  [옵저버]()
  

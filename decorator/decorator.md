@@ -7,7 +7,7 @@
 
 해당 커피집은 처음 시스템을 설계할 때 음료라는 추상 클래스를 만들고, 각 음료가 이를 상속 받도록 합니다.
 
-![image.png](attachment:4c6626d3-64a0-483f-90cf-129e611d15c7:image.png)
+![img.png](img.png)
 
 - `Beverage`:
     - 모든 음료의 추상 클래스로 음료 설명 속성인 `description` 속성과 가격 계산을 해주는 `cost()` 추상 메서드를 가지고 있습니다.
@@ -26,7 +26,7 @@
 
 가장 단순하게 생각할 수 있는 첫 번째 방법은 모든 첨가물 조합을 상속으로 구현하는 것입니다.
 
-![image.png](attachment:98c11c0d-13dd-4674-af19-55aba27d8ce7:image.png)
+![img_1.png](img_1.png)
 
 - 휘핑 크림을 추가하는 클래스
 - 두유로 변경하는 클래스
