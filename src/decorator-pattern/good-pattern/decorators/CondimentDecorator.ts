@@ -10,9 +10,9 @@ export abstract class CondimentDecorator extends Beverage {
         this.beverage = beverage;
     }
 
-    public abstract getDescription(): string;
+    public abstract override getDescription(): string;
 
-    public getSize(): Size {
+    public override getSize(): Size {
         return this.beverage.getSize();
     }
 }
