@@ -5,7 +5,6 @@ import {Observer, DisplayElement, Subject} from "./interfaces";
 export class CurrentConditionsDisplay implements Observer, DisplayElement {
     private temperature: number = 0;
     private humidity: number = 0;
-
     private weatherData: Subject;
 
     constructor(weatherData: Subject) {

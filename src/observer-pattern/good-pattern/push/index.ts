@@ -1,5 +1,5 @@
 import {WeatherData} from "./WeatherData";
-import {CurrentConditionsDisplay, ForecastDisplay, StatisticsDisplay} from "./displats";
+import {CurrentConditionsDisplay, ForecastDisplay, StatisticsDisplay} from "./display";
 
 console.log("=== 옵저버 패턴 시뮬레이션 시작 ===");
 
