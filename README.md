@@ -28,7 +28,7 @@
  
  [데코레이터](https://github.com/kaeuhy/design-pattern/blob/main/decorator/decorator.md)
  
- [옵저버]()
+ [옵저버](https://github.com/kaeuhy/design-pattern/blob/main/observer/observer.md)
  
  [템플릿 메소드]()
  

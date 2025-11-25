@@ -11,14 +11,12 @@ export class WeatherData implements Subject {
 
     public registerObserver(o: Observer): void {
         this.observers.push(o);
-        console.log("✅ 옵저버가 등록되었습니다.");
     }
 
     public removeObserver(o: Observer): void {
         const index = this.observers.indexOf(o);
         if (index >= 0) {
             this.observers.splice(index, 1);
-            console.log("❌ 옵저버가 제거되었습니다.");
         }
     }
 
