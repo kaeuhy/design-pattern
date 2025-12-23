@@ -1,0 +1,1 @@
+export type userstate = "FOCUSED" | "NORMAL" | "DISTRACTED" | "ERROR";
