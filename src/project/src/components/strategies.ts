@@ -1,10 +1,10 @@
 import type {userstate} from "../types/types.ts";
-import type {FocusContextData, ModeStrategy} from "../interfaces/UiInterface.ts";
+import {FocusContextData, ModeStrategy} from "../interfaces/StateInterface";
+
 
 export class FocusModeStrategy implements ModeStrategy {
     public action(context: FocusContextData): userstate {
-        const currentTime = Date.now();
-        const timeDiff = currentTime - context.LastInputTime;
+        const timeDiff = context.timeDiff;
 
         // FOCUSE 모드
         if (timeDiff <= 1000) {
